@@ -1,4 +1,4 @@
-local base = "https://raw.github.com/Ale32bit/Quartz/main/"
+local base = "https://github.com/Ale32bit/Quartz/raw/main/"
 local files = {
     "player.lua",
     "quartz/lib/ui.lua",
